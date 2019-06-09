@@ -1,7 +1,7 @@
 .imageFront {
   border: 1px solid black;
   border-radius: 1ex;
-  background-image: url("img/bg-card.png");
+  background-image: url("img/fond-carte.jpg");
   background-color: white;
   object-fit: cover;
   background-position: center;
@@ -28,7 +28,7 @@ img.eggImg {
 }
 
 img.charaImg {
-  width: 75%;
+  width: 100%;
   height: 65%;
   object-fit: scale-down;
   margin: 0%;
