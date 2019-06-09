@@ -42,7 +42,7 @@ class Cards extends React.Component {
         });
       });
     axios
-      .get(`http://localhost:5050/eggs/${this.getRandomInt(2)}`)
+      .get(`http://localhost:5050/eggs/${this.getRandomInt(3)}`)
       .then(res => {
         this.setState({
           eggs: res.data.image

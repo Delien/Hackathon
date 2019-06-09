@@ -18,7 +18,7 @@ class Back extends React.Component {
           <br />
           {this.props.skills[1]}
           <br />
-          {this.props.skills[2]}{" "}
+          {this.props.skills[2]}
         </p>
       </div>
     );
