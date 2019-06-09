@@ -1,60 +1,58 @@
 .imageFront {
-border : 1px solid black;
-border-radius: 1ex;
-background-image: url('img/bg-card.png');
-background-color: white;
-object-fit: cover;
-background-position: center;
+  border: 1px solid black;
+  border-radius: 1ex;
+  background-image: url("img/bg-card.png");
+  background-color: white;
+  object-fit: cover;
+  background-position: center;
   background-repeat: no-repeat;
   background-position: top;
-cursor: pointer;
-width: 15rem;
-height: 21.5rem;
-justify-content: center;
-margin-left : 1rem;
-box-shadow: 5px 5px 5px black;
+  cursor: pointer;
+  width: 15rem;
+  height: 21.5rem;
+  justify-content: center;
+  margin-left: 1rem;
+  box-shadow: 5px 5px 5px black;
 }
-.energie{
+.energie {
   font-size: 0.8rem;
-    margin-top: -0.5rem;
-    margin-right: -5em;
-    font-weight: bold;
-    color: orangered;
-}
-.description {
-    font-size: 12px;
+  margin-top: -0.5rem;
+  margin-right: -5em;
+  font-weight: bold;
+  color: orangered;
 }
 
 img.eggImg {
-    margin-top : 3rem;
-    width : 10rem;
+  margin-top: 3rem;
+  width: 10rem;
 }
 
 img.charaImg {
-    width : 8rem;
-    height : 9rem;
-    object-fit: scale-down;
-    margin: 0%;
+  width: 74%;
+  height: 50%;
+  object-fit: scale-down;
+  margin: 0%;
+  margin-top: 1rem;
 }
 .characterName {
-    margin-left: -1rem;
-    margin-top: -6%;
-    font-weight: bold;
-    color: black;
-    width : 15rem;
-    height : 3rem;
-    font-size: 1.3rem;
-    text-transform: capitalize ;
+  margin-left: -1rem;
+  margin-top: -6%;
+  font-weight: bold;
+  color: black;
+  width: 15rem;
+  height: ;
+  font-size: 1.3rem;
+  text-transform: capitalize;
 }
 .description {
-    color: black;
-    text-align: left;
-    width : 15rem;
-    height : 7.5rem;
-    margin-top: -0.8rem;
-    font-size : 1rem;
-    text-transform : capitalize;
-    font-weight: bold ;
+  color: black;
+  text-align: left;
+  width: 15rem;
+  height: 7.5rem;
+  margin-top: -0.8rem;
+  font-size: 0.9rem;
+  text-transform: capitalize;
+  font-weight: bold;
 }
 /*
 .effect2

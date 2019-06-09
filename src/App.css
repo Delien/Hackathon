@@ -20,7 +20,9 @@
   justify-content: center;
 }
 .cards {
-  margin-top: 1%;
+
+  margin-top: ;
+
 }
 .card-deck {
   flex-flow: none;

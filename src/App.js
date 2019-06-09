@@ -76,7 +76,9 @@ class App extends Component {
         {this.state.showChild ? (
           <Galerie reloadChild={this.reloadChild} />
         ) : null}
-        <footer className="Footer">
+
+        <footer className="Footer mt-2">
+
           <p>Made with ❤️ by Wild Code School</p>
         </footer>
       </div>
