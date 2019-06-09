@@ -20,28 +20,28 @@
     {
       "id": "1",
       "name": "Bastila Shan",
-      "image": "https://nsa40.casimages.com/img/2019/06/09/190609105424900383.jpg",
+      "image": "https://i.ibb.co/M1BPJbM/bastila.jpg",
       "skills": ["Double light saber", "Force Control", "Combat medidation"],
       "power": 3
     },
     {
       "id": "2",
       "name": "Grey Revan",
-      "image": "https://nsa40.casimages.com/img/2019/06/09/190609105428336735.png",
-      "skills": ["Dual light saber", "Force Control"],
+      "image": "https://i.ibb.co/Pm873rH/grey-revan.png",
+      "skills": ["Dual light saber", "Force Control", "Duality"],
       "power": 10
     },
     {
       "id": "3",
       "name": "Darth Revan",
-      "image": "https://nsa40.casimages.com/img/2019/06/09/190609105426419853.jpg",
+      "image": "https://i.ibb.co/QQxqVPh/darth-revan.jpg",
       "skills": ["Light saber", "Force Control", "Power of the darkside"],
       "power": 6
     },
     {
       "id": "4",
       "name": "Darth Malak",
-      "image": "https://nsa40.casimages.com/img/2019/06/09/190609105430240252.jpg",
+      "image": "https://i.ibb.co/9pnxcBh/malak.jpg",
       "skills": [
         "light saber",
         "Force Control",
@@ -53,14 +53,14 @@
     {
       "id": "5",
       "name": "Mace Windu",
-      "image": "https://nsa40.casimages.com/img/2019/06/09/190609105429715102.jpg",
+      "image": "https://i.ibb.co/DwdPDKt/macewindu.jpg",
       "skills": ["Light saber", "Force Control", "Vaapad", "Jedi master"],
       "power": 4
     },
     {
       "id": "6",
       "name": "Darth Maul",
-      "image": "https://nsa40.casimages.com/img/2019/06/09/190609105426644694.jpg",
+      "image": "https://i.ibb.co/nk73VHw/dathmaul.jpg",
       "skills": [
         "double light saber",
         "Force Control",
@@ -71,70 +71,70 @@
     {
       "id": "7",
       "name": "Obiwan Kenoby",
-      "image": "https://nsa40.casimages.com/img/2019/06/09/190609105430811951.png",
+      "image": "https://i.ibb.co/YZg4Z5z/obiwan.png",
       "skills": ["light saber", "Force Control", "Jedi master"],
       "power": 5
     },
     {
       "id": "8",
       "name": "Anakin Skywalker",
-      "image": "https://nsa40.casimages.com/img/2019/06/09/190609105424517890.jpg",
+      "image": "https://i.ibb.co/LPqyp4Y/anakin.jpg",
       "skills": ["Light saber", "Force Control", "Pilot", "Mechanicien"],
       "power": 5
     },
     {
       "id": "9",
       "name": "Ellen Ripley",
-      "image": "https://nsa40.casimages.com/img/2019/06/09/190609105427611491.jpg",
+      "image": "https://i.ibb.co/CPCSgyM/ellen.jpg",
       "skills": ["Soldier", "Survivor"],
       "power": 2
     },
     {
       "id": "10",
       "name": "Marty Mcfly",
-      "image": "https://nsa40.casimages.com/img/2019/06/09/190609105430410666.jpg",
+      "image": "https://i.ibb.co/6B09x9k/marty.jpg",
       "skills": ["Time travel", "Guitar", "Skateboard"],
       "power": 1
     },
     {
       "id": "11",
       "name": "Hans Gruber",
-      "image": "https://nsa40.casimages.com/img/2019/06/09/190609105428463597.jpg",
+      "image": "https://i.ibb.co/0tG25VD/hans.jpg",
       "skills": ["Terrorist", "Charism"],
       "power": 2
     },
     {
       "id": "12",
       "name": "James Bond",
-      "image": "https://nsa40.casimages.com/img/2019/06/09/190609105425128042.jpg",
+      "image": "https://i.ibb.co/1ZNPs9N/bond.jpg",
       "skills": ["Spy", "Charism", "Silent pistol", "Aston martin"],
       "power": 3
     },
     {
       "id": "13",
       "name": "King Leonidas",
-      "image": "https://nsa40.casimages.com/img/2019/06/09/190609105429419704.jpg",
+      "image": "https://i.ibb.co/dKjjT6V/leonidas.jpg",
       "skills": ["This is spartaaaaa!!"],
       "power": 3
     },
     {
       "id": "14",
       "name": "Katniss Everdeen",
-      "image": "https://nsa40.casimages.com/img/2019/06/09/190609105429165554.jpg",
+      "image": "https://i.ibb.co/pW1YtqZ/katniss.jpg",
       "skills": ["Bow", "Survivor"],
       "power": 2
     },
     {
       "id": "15",
       "name": "Iron Man",
-      "image": "https://nsa40.casimages.com/img/2019/06/09/190609105428920965.jpg",
+      "image": "https://i.ibb.co/34J65rd/iron-man.jpg",
       "skills": ["Multiple armor", "Arc generator", "Rich"],
       "power": 9
     },
     {
       "id": "0",
       "name": "Captain Marvel",
-      "image": "https://nsa40.casimages.com/img/2019/06/09/190609105425976661.jpg",
+      "image": "https://i.ibb.co/PtVX6kd/captainmarvel.jpg",
       "skills": [
         "Overpowerd",
         "Combat skills",
@@ -142,6 +142,34 @@
         "Add 1 points to player score"
       ],
       "power": 10
+    },
+    {
+      "id": "16",
+      "name": "Aragorn",
+      "image": "https://i.ibb.co/ZJr48kk/aragorn.jpg",
+      "skills": ["Sword", "Army of gosth", "Charism"],
+      "power": 6
+    },
+    {
+      "id": "17",
+      "name": "Clone Squad",
+      "image": "https://i.ibb.co/LC9bth8/escouadeclone.png",
+      "skills": ["Strategy", "501th", "Order 66"],
+      "power": 2
+    },
+    {
+      "id": "18",
+      "name": "Stormtroopers Squad",
+      "image": "https://i.ibb.co/x7myxpp/escouadetrooper.jpg",
+      "skills": ["Miss fire", "Obeidience", "Genetic selection"],
+      "power": 1
+    },
+    {
+      "id": "19",
+      "name": "Dark Vador",
+      "image": "https://i.ibb.co/PhJMkb3/vador.jpg",
+      "skills": ["Light saber", "Strangulation", "Power of darkside"],
+      "power": 7
     }
   ]
 }
