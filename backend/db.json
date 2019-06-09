@@ -20,67 +20,67 @@
     {
       "id": "1",
       "name": "Bastila Shan",
-      "image": "url",
+      "image": "https://nsa40.casimages.com/img/2019/06/09/190609094839728248.jpg",
       "skills": ["Double light saber", "Force Control", "Combat medidation"],
-      "power": [3]
+      "power": 3
     },
     {
       "id": "2",
       "name": "Grey Revan",
-      "image": "url",
+      "image": "https://nsa40.casimages.com/img/2019/06/09/190609094841389067.jpg",
       "skills": ["Dual light saber", "Force Control"],
-      "power": [5]
+      "power": 5
     },
     {
       "id": "3",
       "name": "Darth Revan",
-      "image": "url",
+      "image": "https://nsa40.casimages.com/img/2019/06/09/190609094840486963.jpg",
       "skills": ["light saber", "Force Control", "Power of the darkside"],
-      "power": [6]
+      "power": 6
     },
     {
       "id": "4",
       "name": "Darth Malak",
-      "image": "url",
+      "image": "https://nsa40.casimages.com/img/2019/06/09/190609094839955120.jpg",
       "skills": [
         "light saber",
         "Force Control",
         "Power of the darkside",
         "Master of the siths"
       ],
-      "power": [6]
+      "power": 6
     },
     {
       "id": "5",
       "name": "Mace Windu",
-      "image": "url",
+      "image": "https://nsa40.casimages.com/img/2019/06/09/190609094840738546.jpg",
       "skills": ["light saber", "Force Control", "Vaapad", "Jedi master"],
-      "power": [4]
+      "power": 4
     },
     {
       "id": "6",
       "name": "Darth Maul",
-      "image": "url",
+      "image": "https://nsa40.casimages.com/img/2019/06/09/190609094840212066.png",
       "skills": [
         "double light saber",
         "Force Control",
         "Power of the darkside"
       ],
-      "power": [6]
+      "power": 6
     },
     {
       "id": "7",
       "name": "Obiwan Kenoby",
-      "image": "url",
+      "image": "https://nsa40.casimages.com/img/2019/06/09/1906090948402489.jpg",
       "skills": ["light saber", "Force Control", "Jedi master"],
-      "power": [4]
+      "power": 4
     },
     {
       "id": "8",
       "name": "Anakin Skywalker",
-      "image": "url",
+      "image": "https://nsa40.casimages.com/img/2019/06/09/190609094839554704.jpg",
       "skills": ["light saber", "Force Control", "Pilot", "Mechanicien"],
-      "power": [5]
+      "power": 5
     }
   ]
 }
