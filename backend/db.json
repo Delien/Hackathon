@@ -1,0 +1,86 @@
+{
+  "eggs": [
+    {
+      "id": "1",
+      "name": "egg1",
+      "image": "https://nsa40.casimages.com/img/2019/06/09/190609085857808345.png"
+    },
+    {
+      "id": "2",
+      "name": "egg2",
+      "image": "https://nsa40.casimages.com/img/2019/06/09/190609085857713161.png"
+    },
+    {
+      "id": "3",
+      "name": "egg3",
+      "image": "https://nsa40.casimages.com/img/2019/06/09/190609085858452011.png"
+    }
+  ],
+  "characters": [
+    {
+      "id": "1",
+      "name": "Bastila Shan",
+      "image": "url",
+      "skills": ["Double light saber", "Force Control", "Combat medidation"],
+      "power": [3]
+    },
+    {
+      "id": "2",
+      "name": "Grey Revan",
+      "image": "url",
+      "skills": ["Dual light saber", "Force Control"],
+      "power": [5]
+    },
+    {
+      "id": "3",
+      "name": "Darth Revan",
+      "image": "url",
+      "skills": ["light saber", "Force Control", "Power of the darkside"],
+      "power": [6]
+    },
+    {
+      "id": "4",
+      "name": "Darth Malak",
+      "image": "url",
+      "skills": [
+        "light saber",
+        "Force Control",
+        "Power of the darkside",
+        "Master of the siths"
+      ],
+      "power": [6]
+    },
+    {
+      "id": "5",
+      "name": "Mace Windu",
+      "image": "url",
+      "skills": ["light saber", "Force Control", "Vaapad", "Jedi master"],
+      "power": [4]
+    },
+    {
+      "id": "6",
+      "name": "Darth Maul",
+      "image": "url",
+      "skills": [
+        "double light saber",
+        "Force Control",
+        "Power of the darkside"
+      ],
+      "power": [6]
+    },
+    {
+      "id": "7",
+      "name": "Obiwan Kenoby",
+      "image": "url",
+      "skills": ["light saber", "Force Control", "Jedi master"],
+      "power": [4]
+    },
+    {
+      "id": "8",
+      "name": "Anakin Skywalker",
+      "image": "url",
+      "skills": ["light saber", "Force Control", "Pilot", "Mechanicien"],
+      "power": [5]
+    }
+  ]
+}
