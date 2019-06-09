@@ -1,34 +1,33 @@
-@import url('https://fonts.googleapis.com/css?family=Orbitron');
+@import url("https://fonts.googleapis.com/css?family=Orbitron");
 .App {
-  font-family: 'Orbitron', sans-serif;
-  margin:0;
-  padding:0;
+  font-family: "Orbitron", sans-serif;
+  margin: 0;
+  padding: 0;
   text-align: center;
-  background-image: url('img/bg-easter-eggs.jpg');
+  background-image: url("img/bg-easter-eggs.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-position: top;
   background-size: cover;
 }
-.title{
-  font-family: 'Orbitron', sans-serif;
+.title {
+  font-family: "Orbitron", sans-serif;
   font-weight: bold;
   color: white;
 }
-.row{
+.row {
   width: 100%;
-  justify-content: center
+  justify-content: center;
 }
-.cards{
-  margin-top: 10%;
+.cards {
+  margin-top: ;
 }
-.card-deck{
+.card-deck {
   flex-flow: none;
 }
 
 .App-header {
-
-  background-image: url('img/bg-header.jpg');
+  background-image: url("img/bg-header.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-position: top;
@@ -45,11 +44,8 @@
   color: white;
 }
 
-
-
-.Footer{
-
-  width:100%;
+.Footer {
+  width: 100%;
   background-color: #af7c30;
   min-height: 6vh;
   color: white;
@@ -57,6 +53,6 @@
   justify-content: center;
 }
 
-.loic{
+.loic {
   width: 100%;
 }
