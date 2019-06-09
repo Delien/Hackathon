@@ -32,7 +32,7 @@ class Cards extends React.Component {
   };
   componentDidMount() {
     axios
-      .get(`http://localhost:5050/characters/${this.getRandomInt(8)}`)
+      .get(`http://localhost:5050/characters/${this.getRandomInt(20)}`)
       .then(res => {
         this.setState({
           character: res.data.image,
