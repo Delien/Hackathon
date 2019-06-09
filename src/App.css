@@ -20,7 +20,9 @@
   justify-content: center;
 }
 .cards {
+
   margin-top: ;
+
 }
 .card-deck {
   flex-flow: none;
@@ -51,6 +53,7 @@
   color: white;
   align-items: center;
   justify-content: center;
+  margin-top: 2%;
 }
 
 .loic {
