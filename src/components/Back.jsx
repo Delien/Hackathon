@@ -9,8 +9,8 @@ class Back extends React.Component {
 
     return (
       <div>
-        <p className="energie">Power level : {this.props.power} </p>
         <h1 className="characterName"> {this.props.name} </h1>
+        <p className="energie">Power level : {this.props.power} </p>
         <img className="charaImg" src={this.props.character} />
         <p className="description">
           <br />

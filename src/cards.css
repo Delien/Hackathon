@@ -1,7 +1,7 @@
 .imageFront {
   border: 1px solid black;
   border-radius: 1ex;
-  background-image: url("img/fond-carte.jpg");
+  background-image: url("./img/fond-carte.jpg");
   background-color: white;
   object-fit: cover;
   background-position: center;
@@ -16,10 +16,9 @@
 }
 .energie {
   font-size: 0.8rem;
-  margin-top: -0.5rem;
-  margin-right: -5em;
   font-weight: bold;
-  color: orangered;
+  background-color: antiquewhite;
+  padding: 0.1rem;
 }
 
 img.eggImg {
@@ -30,19 +29,19 @@ img.eggImg {
 img.charaImg {
   width: 100%;
   height: 65%;
-  object-fit: scale-down;
   margin: 0%;
-  margin-top: 1rem;
 }
 .characterName {
-  margin-left: -1rem;
-  margin-top: -6%;
+  margin-left: -0.5rem;
+  margin-bottom: 0.5rem;
   font-weight: bold;
   color: black;
-  width: 15rem;
-  height: ;
-  font-size: 1.3rem;
+  width: 14rem;
+  font-size: 1.1rem;
   text-transform: capitalize;
+  border: solid 0.1rem black;
+  padding: 0.2rem 1rem;
+  background-color: antiquewhite;
 }
 .description {
   color: black;
