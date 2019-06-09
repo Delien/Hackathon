@@ -81,62 +81,67 @@
       "image": "https://nsa40.casimages.com/img/2019/06/09/190609105424517890.jpg",
       "skills": ["Light saber", "Force Control", "Pilot", "Mechanicien"],
       "power": 5
-    }
+    },
     {
-        "id": "9",
-        "name": "Ellen Ripley",
-        "image": "https://nsa40.casimages.com/img/2019/06/09/190609105427611491.jpg",
-        "skills": ["Soldier", "Survivor"],
-        "power": 2
-      },
-      {
-        "id": "10",
-        "name": "Marty Mcfly",
-        "image": "https://nsa40.casimages.com/img/2019/06/09/190609105430410666.jpg",
-        "skills": ["Time travel", "Guitar", "Skateboard"],
-        "power": 1
-      },
-      {
-        "id": "11",
-        "name": "Hans Gruber",
-        "image": "https://nsa40.casimages.com/img/2019/06/09/190609105428463597.jpg",
-        "skills": ["Terrorist", "Charism"],
-        "power": 2
-      },
-      {
-        "id": "12",
-        "name": "James Bond",
-        "image": "https://nsa40.casimages.com/img/2019/06/09/190609105425128042.jpg",
-        "skills": ["Spy", "Charism", "Silent pistol", "Aston martin"],
-        "power": 3
-      },
-      {
-        "id": "13",
-        "name": "King Leonidas",
-        "image": "https://nsa40.casimages.com/img/2019/06/09/190609105429419704.jpg",
-        "skills": ["This is spartaaaaa!!"],
-        "power": 3
-      },
-      {
-        "id": "14",
-        "name": "Katniss Everdeen",
-        "image": "https://nsa40.casimages.com/img/2019/06/09/190609105429165554.jpg",
-        "skills": ["Bow", "Survivor"],
-        "power": 2
-      },
-      {
-        "id": "15",
-        "name": "Iron Man",
-        "image": "https://nsa40.casimages.com/img/2019/06/09/190609105428920965.jpg",
-        "skills": ["Multiple armor", "Arc generator", "Rich"],
-        "power": 9
-      },
-      {
-        "id": "0",
-        "name": "Captain Marvel",
-        "image": "https://nsa40.casimages.com/img/2019/06/09/190609105425976661.jpg",
-        "skills": ["Overpowerd", "Combat skills", "Pilot", "Add 1 points to player score"],
-        "power": 10
-      }
+      "id": "9",
+      "name": "Ellen Ripley",
+      "image": "https://nsa40.casimages.com/img/2019/06/09/190609105427611491.jpg",
+      "skills": ["Soldier", "Survivor"],
+      "power": 2
+    },
+    {
+      "id": "10",
+      "name": "Marty Mcfly",
+      "image": "https://nsa40.casimages.com/img/2019/06/09/190609105430410666.jpg",
+      "skills": ["Time travel", "Guitar", "Skateboard"],
+      "power": 1
+    },
+    {
+      "id": "11",
+      "name": "Hans Gruber",
+      "image": "https://nsa40.casimages.com/img/2019/06/09/190609105428463597.jpg",
+      "skills": ["Terrorist", "Charism"],
+      "power": 2
+    },
+    {
+      "id": "12",
+      "name": "James Bond",
+      "image": "https://nsa40.casimages.com/img/2019/06/09/190609105425128042.jpg",
+      "skills": ["Spy", "Charism", "Silent pistol", "Aston martin"],
+      "power": 3
+    },
+    {
+      "id": "13",
+      "name": "King Leonidas",
+      "image": "https://nsa40.casimages.com/img/2019/06/09/190609105429419704.jpg",
+      "skills": ["This is spartaaaaa!!"],
+      "power": 3
+    },
+    {
+      "id": "14",
+      "name": "Katniss Everdeen",
+      "image": "https://nsa40.casimages.com/img/2019/06/09/190609105429165554.jpg",
+      "skills": ["Bow", "Survivor"],
+      "power": 2
+    },
+    {
+      "id": "15",
+      "name": "Iron Man",
+      "image": "https://nsa40.casimages.com/img/2019/06/09/190609105428920965.jpg",
+      "skills": ["Multiple armor", "Arc generator", "Rich"],
+      "power": 9
+    },
+    {
+      "id": "0",
+      "name": "Captain Marvel",
+      "image": "https://nsa40.casimages.com/img/2019/06/09/190609105425976661.jpg",
+      "skills": [
+        "Overpowerd",
+        "Combat skills",
+        "Pilot",
+        "Add 1 points to player score"
+      ],
+      "power": 10
+    }
   ]
 }
