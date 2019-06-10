@@ -170,6 +170,48 @@
       "image": "https://i.ibb.co/PhJMkb3/vador.jpg",
       "skills": ["Light saber", "Strangulation", "Power of darkside"],
       "power": 7
+    },
+    {
+      "id": "20",
+      "name": "Thor",
+      "image": "https://nsa40.casimages.com/img/2019/06/10/190610110036701929.jpg",
+      "skills": ["Mjöllnir", "Thunder", "Fly"],
+      "power": 7
+    },
+    {
+      "id": "21",
+      "name": "Captain America",
+      "image": "https://nsa40.casimages.com/img/2019/06/10/190610110035435886.jpg",
+      "skills": ["Super soldier", "vibranium shield", "charism"],
+      "power": 5
+    },
+    {
+      "id": "22",
+      "name": "Spider Man",
+      "image": "https://nsa40.casimages.com/img/2019/06/10/190610110036524269.jpg",
+      "skills": ["Super force", "Spider sens", "web"],
+      "power": 5
+    },
+    {
+      "id": "23",
+      "name": "Docteur Strange",
+      "image": "https://nsa40.casimages.com/img/2019/06/10/190610110035966848.jpg",
+      "skills": ["Eye of agamotto", "Magic", "cloak of levitation"],
+      "power": 9
+    },
+    {
+      "id": "24",
+      "name": "Ant Man",
+      "image": "https://nsa40.casimages.com/img/2019/06/10/190610110035228446.jpg",
+      "skills": ["Shrink", "Cybernetic helmet", "electronics"],
+      "power": 4
+    },
+    {
+      "id": "25",
+      "name": "War Machine",
+      "image": "https://nsa40.casimages.com/img/2019/06/10/190610110036957487.jpg",
+      "skills": ["Mark II armor", "Fly", "Weapons"],
+      "power": 7
     }
   ]
 }
