@@ -38,11 +38,13 @@ class Galerie extends React.Component {
         </Button>
         <CardDeck>
           <div className="row">
+            <p className="player"> Joueur 1 :</p>
             {data.map((i, idx) => {
               return <Cards />;
             })}
           </div>
           <div className="row mt-2">
+            <p className="player"> Joueur 2 :</p>
             {data.map((i, idx) => {
               return <Cards />;
             })}

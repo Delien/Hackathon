@@ -78,8 +78,9 @@ class App extends Component {
         ) : null}
 
         <footer className="Footer mt-2">
-
-          <p>Made with ❤️ by Wild Code School</p>
+          <p>
+            Made with <span className="love">❤️</span> by Wild Code School
+          </p>
         </footer>
       </div>
     );

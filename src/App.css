@@ -42,6 +42,7 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  margin-bottom: 1rem;
 }
 
 .Footer {
@@ -56,4 +57,13 @@
 
 .loic {
   width: 100%;
+}
+.player {
+  color: white;
+  font-weight: bold;
+}
+.love {
+  color: red;
+  font-weight: bold;
+  font-size: 1.1rem;
 }
