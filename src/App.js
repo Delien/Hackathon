@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import FaceVisible from "./FaceVisible";
 import "./App.css";
 import haeder from "./img/haeder.png";
 import "bootstrap/dist/css/bootstrap.min.css";
@@ -72,7 +71,9 @@ class App extends Component {
         <EasterEgg keys={fin}>
           <img src="https://media.giphy.com/media/IOCXHPvn3WErm/giphy.gif" />
         </EasterEgg>
-        <Compte />
+        {
+          //<Compte /> //
+        }
         {this.state.showChild ? (
           <Galerie reloadChild={this.reloadChild} />
         ) : null}

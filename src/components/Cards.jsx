@@ -3,16 +3,6 @@ import Flippy, { FrontSide, BackSide } from "react-flippy";
 import Front from "./Front";
 import Back from "./Back";
 import axios from "axios";
-import {
-  Card,
-  Button,
-  CardImg,
-  CardTitle,
-  CardText,
-  CardDeck,
-  CardSubtitle,
-  CardBody
-} from "reactstrap";
 import "../cards.css";
 
 class Cards extends React.Component {
